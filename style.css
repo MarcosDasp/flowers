@@ -11,7 +11,7 @@ body{
     flex-direction: column
 }
 
-p{
+.flores{
     max-width: 70%;
     text-align: center;
     font-family: 'Lora', serif;
@@ -20,7 +20,7 @@ p{
 
 .buque{
     display: flex;
-    height: 30dvh;
+    height: 30vh;
     -webkit-filter: drop-shadow(5px 5px 5px #222);
     filter: drop-shadow(5px 5px 5px #222);
     z-index: 1;
