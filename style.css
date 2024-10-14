@@ -20,7 +20,7 @@ body{
 
 .buque{
     display: flex;
-    height: 30vh;
+    height: 25%;
     -webkit-filter: drop-shadow(5px 5px 5px #222);
     filter: drop-shadow(5px 5px 5px #222);
     z-index: 1;
