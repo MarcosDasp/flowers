@@ -16,14 +16,9 @@ img{
     z-index: 9999;
 }
 
-button{
-    cursor: pointer;
-    margin-top: 50px;
-    padding: 15px;
-    border-radius: 63px 63px 63px 63px;
-    text-decoration: none;
-    color: black;
-    font-weight: 600;
+p{
+    position: absolute; 
+    bottom: 0;
 }
 
 .heart {
