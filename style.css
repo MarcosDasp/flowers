@@ -23,6 +23,10 @@ body{
     font-size: 1.5rem;
 }
 
+span{
+    color: rgb(131,58,180);
+}
+
 .buque{
     display: flex;
     height: 25%;
